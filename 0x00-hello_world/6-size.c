@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - prints size of various types
- *
+ * main - prints the size
  * Return: 0
  */
-int main(void) 
+int main(void)
 {
 	char c;
 	int i;
