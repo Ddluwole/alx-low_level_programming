@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 	int a = 0;
 	int b = 0;
 	int result = 0;
-	
+
 	if (argc != 3)
 	{
 		printf("Error\n");
@@ -27,3 +27,4 @@ int main(int argc, char *argv[])
 	printf("%d\n", result);
 	return (0);
 }
+
